@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_pessoa" android:title="Trocar nome deste celular" />
+    <item android:id="@+id/menu_permissao" android:title="Permissão de notificações" />
+    <item android:id="@+id/menu_diagnostico" android:title="Notificações capturadas" />
+</menu>

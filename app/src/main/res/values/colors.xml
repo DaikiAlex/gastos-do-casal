@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="principal">#5E35B1</color>
+    <color name="principal_escuro">#4527A0</color>
+    <color name="destaque">#00897B</color>
+    <color name="fundo_icone">#5E35B1</color>
+    <color name="aviso_fundo">#FFF3E0</color>
+    <color name="aviso_texto">#5D4037</color>
+</resources>
